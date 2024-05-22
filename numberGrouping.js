@@ -9,4 +9,4 @@ function numberGrouping(numbers) {
   // Code here
 }
 
-numberGrouping([1, 2, 4, 6, 8]) // [[2, 4, 8], [1], [6]]
+numberGrouping([1, 2, 4, 6, 8]) // Output: [[2, 4, 8], [1], [6]]
